@@ -20,7 +20,7 @@ Prints the current working directory.
 Used to change directories.
 
 Examples:
-- ```bash
+
 - cd /  -> Root path
 - cd /etc -> Config files directory
 - cd /var/log  -> App & system logs
